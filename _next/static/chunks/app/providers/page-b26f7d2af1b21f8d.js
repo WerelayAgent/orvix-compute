@@ -1,0 +1,11 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[150],{60488:function(e,t,n){Promise.resolve().then(n.t.bind(n,231,23)),Promise.resolve().then(n.bind(n,7661)),Promise.resolve().then(n.bind(n,60345))},22468:function(e,t,n){"use strict";n.d(t,{Z:function(){return r}});/**
+ * @license lucide-react v0.417.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let r=(0,n(78030).Z)("Check",[["path",{d:"M20 6 9 17l-5-5",key:"1gmf2c"}]])},6884:function(e,t,n){"use strict";n.d(t,{Z:function(){return r}});/**
+ * @license lucide-react v0.417.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let r=(0,n(78030).Z)("Copy",[["rect",{width:"14",height:"14",x:"8",y:"8",rx:"2",ry:"2",key:"17jyea"}],["path",{d:"M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2",key:"zix9uf"}]])},60345:function(e,t,n){"use strict";n.d(t,{CodeBlock:function(){return a}});var r=n(57437),s=n(2265),o=n(22468),i=n(6884),c=n(76804);function a(e){let{code:t,language:n,className:a}=e,[d,u]=(0,s.useState)(!1),l=async()=>{try{await navigator.clipboard.writeText(t),u(!0),window.setTimeout(()=>u(!1),1500)}catch(e){}};return(0,r.jsxs)("div",{className:(0,c.cn)("group relative rounded-md border border-border bg-bg-secondary",a),children:[(0,r.jsxs)("div",{className:"flex items-center justify-between px-4 pt-3",children:[n?(0,r.jsx)("span",{className:"font-mono text-xs text-text-muted",children:n}):(0,r.jsx)("span",{}),(0,r.jsx)("button",{onClick:l,"aria-label":"Copy code",className:"text-text-muted opacity-0 transition-opacity hover:text-text-secondary group-hover:opacity-100",children:d?(0,r.jsx)(o.Z,{size:14}):(0,r.jsx)(i.Z,{size:14})})]}),(0,r.jsx)("pre",{className:"overflow-x-auto px-4 pb-4 pt-1",children:(0,r.jsx)("code",{className:"font-mono text-xs leading-relaxed text-text-primary",children:t})})]})}}},function(e){e.O(0,[3100,7138,6972,7661,2971,7023,1744],function(){return e(e.s=60488)}),_N_E=e.O()}]);
